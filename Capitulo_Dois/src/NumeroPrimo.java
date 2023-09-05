@@ -1,6 +1,5 @@
 // Desafio dado pelo livro. Fazer um programa para encontrar
 // os números primos de 2 a 100.
-
 public class NumeroPrimo {
     public static void main(String[] args) {
 

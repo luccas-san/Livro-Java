@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Capitulo_Cinco/Capitulo_Cinco.iml" filepath="$PROJECT_DIR$/Capitulo_Cinco/Capitulo_Cinco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo_Dez/Capitulo_Dez.iml" filepath="$PROJECT_DIR$/Capitulo_Dez/Capitulo_Dez.iml" />
       <module fileurl="file://$PROJECT_DIR$/Capitulo_Dois/Capitulo_Dois.iml" filepath="$PROJECT_DIR$/Capitulo_Dois/Capitulo_Dois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo_Nove/Capitulo_Nove.iml" filepath="$PROJECT_DIR$/Capitulo_Nove/Capitulo_Nove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo_Oito/Capitulo_Oito.iml" filepath="$PROJECT_DIR$/Capitulo_Oito/Capitulo_Oito.iml" />
       <module fileurl="file://$PROJECT_DIR$/Capitulo_Quatro/Capitulo_Quatro.iml" filepath="$PROJECT_DIR$/Capitulo_Quatro/Capitulo_Quatro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo_Seis/Capitulo_Seis.iml" filepath="$PROJECT_DIR$/Capitulo_Seis/Capitulo_Seis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo_Sete/Capitulo_Sete.iml" filepath="$PROJECT_DIR$/Capitulo_Sete/Capitulo_Sete.iml" />
       <module fileurl="file://$PROJECT_DIR$/Capitulo_Tres/Capitulo_Tres.iml" filepath="$PROJECT_DIR$/Capitulo_Tres/Capitulo_Tres.iml" />
       <module fileurl="file://$PROJECT_DIR$/Capitulo_Um/Capitulo_Um.iml" filepath="$PROJECT_DIR$/Capitulo_Um/Capitulo_Um.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Livro_Java.iml" filepath="$PROJECT_DIR$/.idea/Livro_Java.iml" />
